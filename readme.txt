@@ -1,3 +1,3 @@
 welcome to my project!
-author:hawitha jashika
+author:Haswitha joshini jashika
 Twitter:@hashu004jashu
